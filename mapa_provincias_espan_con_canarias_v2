@@ -17,7 +17,8 @@
         "nom_prov": "Almería",
         "nom_prov2": "",
         "cod_ccaa": "01",
-        "cod_prov": "04"
+        "cod_prov": "04",
+        "cod_prov_iso": "ES-AL"
       },
       "geometry": {
         "type": "Polygon",
@@ -579,7 +580,8 @@
         "nom_prov": "Cádiz",
         "nom_prov2": "",
         "cod_ccaa": "01",
-        "cod_prov": 11
+        "cod_prov": 11,
+        "cod_prov_iso": "ES-CA"
       },
       "geometry": {
         "type": "Polygon",
@@ -1241,7 +1243,8 @@
         "nom_prov": "Córdoba",
         "nom_prov2": "",
         "cod_ccaa": "01",
-        "cod_prov": 14
+        "cod_prov": 14,
+        "cod_prov_iso": "ES-CO"
       },
       "geometry": {
         "type": "Polygon",
@@ -2027,7 +2030,8 @@
         "nom_prov": "Granada",
         "nom_prov2": "",
         "cod_ccaa": "01",
-        "cod_prov": 18
+        "cod_prov": 18,
+        "cod_prov_iso": "ES-GR"
       },
       "geometry": {
         "type": "Polygon",
@@ -2785,7 +2789,8 @@
         "nom_prov": "Huelva",
         "nom_prov2": "",
         "cod_ccaa": "01",
-        "cod_prov": 21
+        "cod_prov": 21,
+        "cod_prov_iso": "ES-H"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3465,7 +3470,8 @@
         "nom_prov": "Jaén",
         "nom_prov2": "",
         "cod_ccaa": "01",
-        "cod_prov": 23
+        "cod_prov": 23,
+        "cod_prov_iso": "ES-J"
       },
       "geometry": {
         "type": "Polygon",
@@ -4135,7 +4141,8 @@
         "nom_prov": "Málaga",
         "nom_prov2": "",
         "cod_ccaa": "01",
-        "cod_prov": 29
+        "cod_prov": 29,
+        "cod_prov_iso": "ES-MA"
       },
       "geometry": {
         "type": "Polygon",
@@ -4749,7 +4756,8 @@
         "nom_prov": "Sevilla",
         "nom_prov2": "",
         "cod_ccaa": "01",
-        "cod_prov": 41
+        "cod_prov": 41,
+        "cod_prov_iso": "ES-SE"
       },
       "geometry": {
         "type": "Polygon",
@@ -5611,7 +5619,8 @@
         "nom_prov": "Huesca",
         "nom_prov2": "",
         "cod_ccaa": "02",
-        "cod_prov": 22
+        "cod_prov": 22,
+        "cod_prov_iso": "ES-HU"
       },
       "geometry": {
         "type": "Polygon",
@@ -6437,7 +6446,8 @@
         "nom_prov": "Teruel",
         "nom_prov2": "",
         "cod_ccaa": "02",
-        "cod_prov": 44
+        "cod_prov": 44,
+        "cod_prov_iso": "ES-TE"
       },
       "geometry": {
         "type": "Polygon",
@@ -7355,7 +7365,8 @@
         "nom_prov": "Zaragoza",
         "nom_prov2": "",
         "cod_ccaa": "02",
-        "cod_prov": 50
+        "cod_prov": 50,
+        "cod_prov_iso": "ES-Z"
       },
       "geometry": {
         "type": "Polygon",
@@ -8525,7 +8536,8 @@
         "nom_prov": "Cantabria",
         "nom_prov2": "",
         "cod_ccaa": "06",
-        "cod_prov": 39
+        "cod_prov": 39,
+        "cod_prov_iso": "ES-S"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9221,7 +9233,8 @@
         "nom_prov": "Ávila",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": "05"
+        "cod_prov": "05",
+        "cod_prov_iso": "ES-AV"
       },
       "geometry": {
         "type": "Polygon",
@@ -9871,7 +9884,8 @@
         "nom_prov": "Burgos",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": "09"
+        "cod_prov": "09",
+        "cod_prov_iso": "ES-BU"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10997,7 +11011,8 @@
         "nom_prov": "León",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": 24
+        "cod_prov": 24,
+        "cod_prov_iso": "ES-LE"
       },
       "geometry": {
         "type": "Polygon",
@@ -11905,7 +11920,8 @@
         "nom_prov": "Palencia",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": 34
+        "cod_prov": 34,
+        "cod_prov_iso": "ES-P"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12657,7 +12673,8 @@
         "nom_prov": "Salamanca",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": 37
+        "cod_prov": 37,
+        "cod_prov_iso": "ES-SA"
       },
       "geometry": {
         "type": "Polygon",
@@ -13419,7 +13436,8 @@
         "nom_prov": "Segovia",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": 40
+        "cod_prov": 40,
+        "cod_prov_iso": "ES-SG"
       },
       "geometry": {
         "type": "Polygon",
@@ -13953,7 +13971,8 @@
         "nom_prov": "Soria",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": 42
+        "cod_prov": 42,
+        "cod_prov_iso": "ES-SO"
       },
       "geometry": {
         "type": "Polygon",
@@ -14635,7 +14654,8 @@
         "nom_prov": "Valladolid",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": 47
+        "cod_prov": 47,
+        "cod_prov_iso": "ES-VA"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15447,7 +15467,8 @@
         "nom_prov": "Zamora",
         "nom_prov2": "",
         "cod_ccaa": "07",
-        "cod_prov": 49
+        "cod_prov": 49,
+        "cod_prov_iso": "ES-ZA"
       },
       "geometry": {
         "type": "Polygon",
@@ -16241,7 +16262,8 @@
         "nom_prov": "Albacete",
         "nom_prov2": "",
         "cod_ccaa": "08",
-        "cod_prov": "02"
+        "cod_prov": "02",
+        "cod_prov_iso": "ES-AB"
       },
       "geometry": {
         "type": "Polygon",
@@ -16991,7 +17013,8 @@
         "nom_prov": "Ciudad Real",
         "nom_prov2": "",
         "cod_ccaa": "08",
-        "cod_prov": 13
+        "cod_prov": 13,
+        "cod_prov_iso": "ES-CR"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17935,7 +17958,8 @@
         "nom_prov": "Cuenca",
         "nom_prov2": "",
         "cod_ccaa": "08",
-        "cod_prov": 16
+        "cod_prov": 16,
+        "cod_prov_iso": "ES-CU"
       },
       "geometry": {
         "type": "Polygon",
@@ -18709,7 +18733,8 @@
         "nom_prov": "Guadalajara",
         "nom_prov2": "",
         "cod_ccaa": "08",
-        "cod_prov": 19
+        "cod_prov": 19,
+        "cod_prov_iso": "ES-GU"
       },
       "geometry": {
         "type": "Polygon",
@@ -19523,7 +19548,8 @@
         "nom_prov": "Toledo",
         "nom_prov2": "",
         "cod_ccaa": "08",
-        "cod_prov": 45
+        "cod_prov": 45,
+        "cod_prov_iso": "ES-TO"
       },
       "geometry": {
         "type": "Polygon",
@@ -20437,7 +20463,8 @@
         "nom_prov": "Barcelona",
         "nom_prov2": "",
         "cod_ccaa": "09",
-        "cod_prov": "08"
+        "cod_prov": "08",
+        "cod_prov_iso": "ES-B"
       },
       "geometry": {
         "type": "Polygon",
@@ -21091,7 +21118,8 @@
         "nom_prov": "Girona",
         "nom_prov2": "Girona",
         "cod_ccaa": "09",
-        "cod_prov": 17
+        "cod_prov": 17,
+        "cod_prov_iso": "ES-GI"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21791,7 +21819,8 @@
         "nom_prov": "Lérida",
         "nom_prov2": "Lleida",
         "cod_ccaa": "09",
-        "cod_prov": 25
+        "cod_prov": 25,
+        "cod_prov_iso": "ES-L"
       },
       "geometry": {
         "type": "Polygon",
@@ -22605,7 +22634,8 @@
         "nom_prov": "Tarragona",
         "nom_prov2": "",
         "cod_ccaa": "09",
-        "cod_prov": 43
+        "cod_prov": 43,
+        "cod_prov_iso": "ES-T"
       },
       "geometry": {
         "type": "Polygon",
@@ -23203,7 +23233,8 @@
         "nom_prov": "Ceuta",
         "nom_prov2": "",
         "cod_ccaa": 18,
-        "cod_prov": 51
+        "cod_prov": 51,
+        "cod_prov_iso": "ES-CE"
       },
       "geometry": {
         "type": "Polygon",
@@ -23265,7 +23296,8 @@
         "nom_prov": "Melilla",
         "nom_prov2": "",
         "cod_ccaa": 19,
-        "cod_prov": 52
+        "cod_prov": 52,
+        "cod_prov_iso": "ES-ML"
       },
       "geometry": {
         "type": "Polygon",
@@ -23307,7 +23339,8 @@
         "nom_prov": "Madrid",
         "nom_prov2": "",
         "cod_ccaa": 13,
-        "cod_prov": 28
+        "cod_prov": 28,
+        "cod_prov_iso": "ES-M"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24059,7 +24092,8 @@
         "nom_prov": "Navarra",
         "nom_prov2": "",
         "cod_ccaa": 15,
-        "cod_prov": 31
+        "cod_prov": 31,
+        "cod_prov_iso": "ES-NA"
       },
       "geometry": {
         "type": "Polygon",
@@ -24881,7 +24915,8 @@
         "nom_prov": "Alicante",
         "nom_prov2": "Alacant",
         "cod_ccaa": 10,
-        "cod_prov": "03"
+        "cod_prov": "03",
+        "cod_prov_iso": "ES-A"
       },
       "geometry": {
         "type": "Polygon",
@@ -25375,7 +25410,8 @@
         "nom_prov": "Castellón",
         "nom_prov2": "Castelló",
         "cod_ccaa": 10,
-        "cod_prov": 12
+        "cod_prov": 12,
+        "cod_prov_iso": "ES-CS"
       },
       "geometry": {
         "type": "Polygon",
@@ -25893,7 +25929,8 @@
         "nom_prov": "Valencia",
         "nom_prov2": "València",
         "cod_ccaa": 10,
-        "cod_prov": 46
+        "cod_prov": 46,
+        "cod_prov_iso": "ES-V"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26649,7 +26686,8 @@
         "nom_prov": "Badajoz",
         "nom_prov2": "",
         "cod_ccaa": 11,
-        "cod_prov": "06"
+        "cod_prov": "06",
+        "cod_prov_iso": "ES-BA"
       },
       "geometry": {
         "type": "Polygon",
@@ -27767,7 +27805,8 @@
         "nom_prov": "Cáceres",
         "nom_prov2": "",
         "cod_ccaa": 11,
-        "cod_prov": 10
+        "cod_prov": 10,
+        "cod_prov_iso": "ES-CC"
       },
       "geometry": {
         "type": "Polygon",
@@ -28733,7 +28772,8 @@
         "nom_prov": "A Coruña",
         "nom_prov2": "La Coruña",
         "cod_ccaa": 12,
-        "cod_prov": 15
+        "cod_prov": 15,
+        "cod_prov_iso": "ES-C"
       },
       "geometry": {
         "type": "Polygon",
@@ -29587,7 +29627,8 @@
         "nom_prov": "Lugo",
         "nom_prov2": "",
         "cod_ccaa": 12,
-        "cod_prov": 27
+        "cod_prov": 27,
+        "cod_prov_iso": "ES-LU"
       },
       "geometry": {
         "type": "Polygon",
@@ -30265,7 +30306,8 @@
         "nom_prov": "Ourense",
         "nom_prov2": "Orense",
         "cod_ccaa": 12,
-        "cod_prov": 32
+        "cod_prov": 32,
+        "cod_prov_iso": "ES-OR"
       },
       "geometry": {
         "type": "Polygon",
@@ -30931,7 +30973,8 @@
         "nom_prov": "Pontevedra",
         "nom_prov2": "",
         "cod_ccaa": 12,
-        "cod_prov": 36
+        "cod_prov": 36,
+        "cod_prov_iso": "ES-PO"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31615,7 +31658,8 @@
         "nom_prov": "Baleares",
         "nom_prov2": "",
         "cod_ccaa": "04",
-        "cod_prov": "07"
+        "cod_prov": "07",
+        "cod_prov_iso": "ES-PM"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32511,7 +32555,8 @@
         "nom_prov": "Las Palmas",
         "nom_prov2": "",
         "cod_ccaa": "05",
-        "cod_prov": 35
+        "cod_prov": 35,
+        "cod_prov_iso": "ES-GC"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33243,7 +33288,8 @@
         "nom_prov": "Santa Cruz de Tenerife",
         "nom_prov2": "",
         "cod_ccaa": "05",
-        "cod_prov": 38
+        "cod_prov": 38,
+        "cod_prov_iso": "ES-TF"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33871,7 +33917,8 @@
         "nom_prov": "La Rioja",
         "nom_prov2": "",
         "cod_ccaa": 17,
-        "cod_prov": 26
+        "cod_prov": 26,
+        "cod_prov_iso": "ES-LO"
       },
       "geometry": {
         "type": "Polygon",
@@ -34469,7 +34516,8 @@
         "nom_prov": "Álava",
         "nom_prov2": "Araba",
         "cod_ccaa": 16,
-        "cod_prov": "01"
+        "cod_prov": "01",
+        "cod_prov_iso": "ES-VI"
       },
       "geometry": {
         "type": "Polygon",
@@ -35109,7 +35157,8 @@
         "nom_prov": "Guipúzcoa",
         "nom_prov2": "Gipuzkoa",
         "cod_ccaa": 16,
-        "cod_prov": 20
+        "cod_prov": 20,
+        "cod_prov_iso": "ES-SS"
       },
       "geometry": {
         "type": "Polygon",
@@ -35411,7 +35460,8 @@
         "nom_prov": "Vizcaya",
         "nom_prov2": "Bizkaia",
         "cod_ccaa": 16,
-        "cod_prov": 48
+        "cod_prov": 48,
+        "cod_prov_iso": "ES-BI"
       },
       "geometry": {
         "type": "Polygon",
@@ -35839,7 +35889,8 @@
         "nom_prov": "Asturias",
         "nom_prov2": "",
         "cod_ccaa": "03",
-        "cod_prov": 33
+        "cod_prov": 33,
+        "cod_prov_iso": "ES-O"
       },
       "geometry": {
         "type": "Polygon",
@@ -36605,7 +36656,8 @@
         "nom_prov": "Murcia",
         "nom_prov2": "",
         "cod_ccaa": 14,
-        "cod_prov": 30
+        "cod_prov": 30,
+        "cod_prov_iso": "ES-MU"
       },
       "geometry": {
         "type": "Polygon",
