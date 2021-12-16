@@ -18,7 +18,9 @@
         "nom_prov2": "",
         "cod_ccaa": "01",
         "cod_prov": "04",
-        "cod_prov_iso": "ES-AL"
+        "cod_prov_iso_3166/MA": "ES-AL",
+        "latitud": "37.196085212100002",
+        "longitud": " -2.3448128003"
       },
       "geometry": {
         "type": "Polygon",
@@ -581,7 +583,9 @@
         "nom_prov2": "",
         "cod_ccaa": "01",
         "cod_prov": 11,
-        "cod_prov_iso": "ES-CA"
+        "cod_prov_iso_3166/MA": "ES-CA",
+        "latitud": "36.553872919500002",
+        "longitud": " -5.7604183752"
       },
       "geometry": {
         "type": "Polygon",
@@ -1244,7 +1248,9 @@
         "nom_prov2": "",
         "cod_ccaa": "01",
         "cod_prov": 14,
-        "cod_prov_iso": "ES-CO"
+        "cod_prov_iso_3166/MA": "ES-CO",
+        "latitud": "37.992694440900003",
+        "longitud": " -4.80926161095"
       },
       "geometry": {
         "type": "Polygon",
@@ -2031,7 +2037,9 @@
         "nom_prov2": "",
         "cod_ccaa": "01",
         "cod_prov": 18,
-        "cod_prov_iso": "ES-GR"
+        "cod_prov_iso_3166/MA": "ES-GR",
+        "latitud": "37.312516967199997",
+        "longitud": " -3.26788107732"
       },
       "geometry": {
         "type": "Polygon",
@@ -2790,7 +2798,9 @@
         "nom_prov2": "",
         "cod_ccaa": "01",
         "cod_prov": 21,
-        "cod_prov_iso": "ES-H"
+        "cod_prov_iso_3166/MA": "ES-H",
+        "latitud": "37.577179402100001",
+        "longitud": " -6.82930221031"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3471,7 +3481,9 @@
         "nom_prov2": "",
         "cod_ccaa": "01",
         "cod_prov": 23,
-        "cod_prov_iso": "ES-J"
+        "cod_prov_iso_3166/MA": "ES-J",
+        "latitud": "38.016512278299999",
+        "longitud": " -3.44169215171"
       },
       "geometry": {
         "type": "Polygon",
@@ -4142,7 +4154,9 @@
         "nom_prov2": "",
         "cod_ccaa": "01",
         "cod_prov": 29,
-        "cod_prov_iso": "ES-MA"
+        "cod_prov_iso_3166/MA": "ES-MA",
+        "latitud": "36.813859165099998",
+        "longitud": " -4.72586195603"
       },
       "geometry": {
         "type": "Polygon",
@@ -4757,7 +4771,9 @@
         "nom_prov2": "",
         "cod_ccaa": "01",
         "cod_prov": 41,
-        "cod_prov_iso": "ES-SE"
+        "cod_prov_iso_3166/MA": "ES-SE",
+        "latitud": 37.4356699135,
+        "longitud": " -5.68277303032"
       },
       "geometry": {
         "type": "Polygon",
@@ -5620,7 +5636,9 @@
         "nom_prov2": "",
         "cod_ccaa": "02",
         "cod_prov": 22,
-        "cod_prov_iso": "ES-HU"
+        "cod_prov_iso_3166/MA": "ES-HU",
+        "latitud": "42.203055737100001",
+        "longitud": " -0.0728865943582"
       },
       "geometry": {
         "type": "Polygon",
@@ -6447,7 +6465,9 @@
         "nom_prov2": "",
         "cod_ccaa": "02",
         "cod_prov": 44,
-        "cod_prov_iso": "ES-TE"
+        "cod_prov_iso_3166/MA": "ES-TE",
+        "latitud": "40.661261961500003",
+        "longitud": " -0.815532258446"
       },
       "geometry": {
         "type": "Polygon",
@@ -7366,7 +7386,9 @@
         "nom_prov2": "",
         "cod_ccaa": "02",
         "cod_prov": 50,
-        "cod_prov_iso": "ES-Z"
+        "cod_prov_iso_3166/MA": "ES-Z",
+        "latitud": "41.620364801900003",
+        "longitud": " -1.06449678144"
       },
       "geometry": {
         "type": "Polygon",
@@ -8537,7 +8559,9 @@
         "nom_prov2": "",
         "cod_ccaa": "06",
         "cod_prov": 39,
-        "cod_prov_iso": "ES-S"
+        "cod_prov_iso_3166/MA": "ES-S",
+        "latitud": "43.197522048400003",
+        "longitud": " -4.03002122038"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9234,7 +9258,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": "05",
-        "cod_prov_iso": "ES-AV"
+        "cod_prov_iso_3166/MA": "ES-AV",
+        "latitud": "40.571036749199997",
+        "longitud": " -4.94553505619"
       },
       "geometry": {
         "type": "Polygon",
@@ -9885,7 +9911,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": "09",
-        "cod_prov_iso": "ES-BU"
+        "cod_prov_iso_3166/MA": "ES-BU",
+        "latitud": "42.368712726699997",
+        "longitud": " -3.58574245567"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11012,7 +11040,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": 24,
-        "cod_prov_iso": "ES-LE"
+        "cod_prov_iso_3166/MA": "ES-LE",
+        "latitud": "42.619955243900002",
+        "longitud": " -5.83988102629"
       },
       "geometry": {
         "type": "Polygon",
@@ -11921,7 +11951,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": 34,
-        "cod_prov_iso": "ES-P"
+        "cod_prov_iso_3166/MA": "ES-P",
+        "latitud": "42.371833854599998",
+        "longitud": " -4.53585717538"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12674,7 +12706,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": 37,
-        "cod_prov_iso": "ES-SA"
+        "cod_prov_iso_3166/MA": "ES-SA",
+        "latitud": "40.804989216199999",
+        "longitud": " -6.06541224773"
       },
       "geometry": {
         "type": "Polygon",
@@ -13437,7 +13471,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": 40,
-        "cod_prov_iso": "ES-SG"
+        "cod_prov_iso_3166/MA": "ES-SG",
+        "latitud": 41.1710254065,
+        "longitud": " -4.05415057783"
       },
       "geometry": {
         "type": "Polygon",
@@ -13972,7 +14008,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": 42,
-        "cod_prov_iso": "ES-SO"
+        "cod_prov_iso_3166/MA": "ES-SO",
+        "latitud": "41.620774250399997",
+        "longitud": " -2.58874304739"
       },
       "geometry": {
         "type": "Polygon",
@@ -14655,7 +14693,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": 47,
-        "cod_prov_iso": "ES-VA"
+        "cod_prov_iso_3166/MA": "ES-VA",
+        "latitud": "41.634126069499999",
+        "longitud": " -4.84719141141"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15468,7 +15508,9 @@
         "nom_prov2": "",
         "cod_ccaa": "07",
         "cod_prov": 49,
-        "cod_prov_iso": "ES-ZA"
+        "cod_prov_iso_3166/MA": "ES-ZA",
+        "latitud": "41.727174396099997",
+        "longitud": " -5.98053925522"
       },
       "geometry": {
         "type": "Polygon",
@@ -16263,7 +16305,9 @@
         "nom_prov2": "",
         "cod_ccaa": "08",
         "cod_prov": "02",
-        "cod_prov_iso": "ES-AB"
+        "cod_prov_iso_3166/MA": "ES-AB",
+        "latitud": "38.825408619199997",
+        "longitud": " -1.98037326935"
       },
       "geometry": {
         "type": "Polygon",
@@ -17014,7 +17058,9 @@
         "nom_prov2": "",
         "cod_ccaa": "08",
         "cod_prov": 13,
-        "cod_prov_iso": "ES-CR"
+        "cod_prov_iso_3166/MA": "ES-CR",
+        "latitud": "38.925612825400002",
+        "longitud": " -3.82809764894"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17959,7 +18005,9 @@
         "nom_prov2": "",
         "cod_ccaa": "08",
         "cod_prov": 16,
-        "cod_prov_iso": "ES-CU"
+        "cod_prov_iso_3166/MA": "ES-CU",
+        "latitud": "39.896049684600001",
+        "longitud": " -2.19567153274"
       },
       "geometry": {
         "type": "Polygon",
@@ -18734,7 +18782,9 @@
         "nom_prov2": "",
         "cod_ccaa": "08",
         "cod_prov": 19,
-        "cod_prov_iso": "ES-GU"
+        "cod_prov_iso_3166/MA": "ES-GU",
+        "latitud": "40.813449565399999",
+        "longitud": " -2.62368878371"
       },
       "geometry": {
         "type": "Polygon",
@@ -19549,7 +19599,9 @@
         "nom_prov2": "",
         "cod_ccaa": "08",
         "cod_prov": 45,
-        "cod_prov_iso": "ES-TO"
+        "cod_prov_iso_3166/MA": "ES-TO",
+        "latitud": "39.793734161400003",
+        "longitud": " -4.14815562595"
       },
       "geometry": {
         "type": "Polygon",
@@ -20464,7 +20516,9 @@
         "nom_prov2": "",
         "cod_ccaa": "09",
         "cod_prov": "08",
-        "cod_prov_iso": "ES-B"
+        "cod_prov_iso_3166/MA": "ES-B",
+        "latitud": "41.731000889500002",
+        "longitud": " 1.98405401772"
       },
       "geometry": {
         "type": "Polygon",
@@ -21119,7 +21173,9 @@
         "nom_prov2": "Girona",
         "cod_ccaa": "09",
         "cod_prov": 17,
-        "cod_prov_iso": "ES-GI"
+        "cod_prov_iso_3166/MA": "ES-GI",
+        "latitud": "42.128011711900001",
+        "longitud": " 2.6735559327"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21820,7 +21876,9 @@
         "nom_prov2": "Lleida",
         "cod_ccaa": "09",
         "cod_prov": 25,
-        "cod_prov_iso": "ES-L"
+        "cod_prov_iso_3166/MA": "ES-L",
+        "latitud": "42.043968669800002",
+        "longitud": " 1.04798206104"
       },
       "geometry": {
         "type": "Polygon",
@@ -22635,7 +22693,9 @@
         "nom_prov2": "",
         "cod_ccaa": "09",
         "cod_prov": 43,
-        "cod_prov_iso": "ES-T"
+        "cod_prov_iso_3166/MA": "ES-T",
+        "latitud": "41.087614395700001",
+        "longitud": " 0.818127863314"
       },
       "geometry": {
         "type": "Polygon",
@@ -23234,7 +23294,9 @@
         "nom_prov2": "",
         "cod_ccaa": 18,
         "cod_prov": 51,
-        "cod_prov_iso": "ES-CE"
+        "cod_prov_iso_3166/MA": "ES-CE",
+        "latitud": 35.8934069863,
+        "longitud": " -5.34342403891"
       },
       "geometry": {
         "type": "Polygon",
@@ -23297,7 +23359,9 @@
         "nom_prov2": "",
         "cod_ccaa": 19,
         "cod_prov": 52,
-        "cod_prov_iso": "ES-ML"
+        "cod_prov_iso_3166/MA": "ES-ML",
+        "latitud": "35.290827994899999",
+        "longitud": " -2.95053552337"
       },
       "geometry": {
         "type": "Polygon",
@@ -23340,7 +23404,9 @@
         "nom_prov2": "",
         "cod_ccaa": 13,
         "cod_prov": 28,
-        "cod_prov_iso": "ES-M"
+        "cod_prov_iso_3166/MA": "ES-M",
+        "latitud": "40.495087374400001",
+        "longitud": " -3.71704619215"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24093,7 +24159,9 @@
         "nom_prov2": "",
         "cod_ccaa": 15,
         "cod_prov": 31,
-        "cod_prov_iso": "ES-NA"
+        "cod_prov_iso_3166/MA": "ES-NA",
+        "latitud": "42.667201150899999",
+        "longitud": " -1.64611414443"
       },
       "geometry": {
         "type": "Polygon",
@@ -24916,7 +24984,9 @@
         "nom_prov2": "Alacant",
         "cod_ccaa": 10,
         "cod_prov": "03",
-        "cod_prov_iso": "ES-A"
+        "cod_prov_iso_3166/MA": "ES-A",
+        "latitud": "38.478637804900004",
+        "longitud": " -0.568699068376"
       },
       "geometry": {
         "type": "Polygon",
@@ -25411,7 +25481,9 @@
         "nom_prov2": "Castelló",
         "cod_ccaa": 10,
         "cod_prov": 12,
-        "cod_prov_iso": "ES-CS"
+        "cod_prov_iso_3166/MA": "ES-CS",
+        "longitud": " -0.146777086937",
+        "latitud": "40.241370585200002"
       },
       "geometry": {
         "type": "Polygon",
@@ -25930,7 +26002,9 @@
         "nom_prov2": "València",
         "cod_ccaa": 10,
         "cod_prov": 46,
-        "cod_prov_iso": "ES-V"
+        "cod_prov_iso_3166/MA": "ES-V",
+        "latitud": "39.370256237500001",
+        "longitud": " -0.800789615081"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26687,7 +26761,9 @@
         "nom_prov2": "",
         "cod_ccaa": 11,
         "cod_prov": "06",
-        "cod_prov_iso": "ES-BA"
+        "cod_prov_iso_3166/MA": "ES-BA",
+        "latitud": "38.709770738099998",
+        "longitud": " -6.14158521981"
       },
       "geometry": {
         "type": "Polygon",
@@ -27806,7 +27882,9 @@
         "nom_prov2": "",
         "cod_ccaa": 11,
         "cod_prov": 10,
-        "cod_prov_iso": "ES-CC"
+        "cod_prov_iso_3166/MA": "ES-CC",
+        "latitud": "39.711889960699999",
+        "longitud": " -6.16082194997"
       },
       "geometry": {
         "type": "Polygon",
@@ -28773,7 +28851,9 @@
         "nom_prov2": "La Coruña",
         "cod_ccaa": 12,
         "cod_prov": 15,
-        "cod_prov_iso": "ES-C"
+        "cod_prov_iso_3166/MA": "ES-C",
+        "latitud": "43.125795822900002",
+        "longitud": " -8.4642836868"
       },
       "geometry": {
         "type": "Polygon",
@@ -29628,7 +29708,9 @@
         "nom_prov2": "",
         "cod_ccaa": 12,
         "cod_prov": 27,
-        "cod_prov_iso": "ES-LU"
+        "cod_prov_iso_3166/MA": "ES-LU",
+        "latitud": "43.011763999999999",
+        "longitud": " -7.44638404764"
       },
       "geometry": {
         "type": "Polygon",
@@ -30307,7 +30389,9 @@
         "nom_prov2": "Orense",
         "cod_ccaa": 12,
         "cod_prov": 32,
-        "cod_prov_iso": "ES-OR"
+        "cod_prov_iso_3166/MA": "ES-OR",
+        "latitud": "42.196450300199999",
+        "longitud": " -7.59259790937"
       },
       "geometry": {
         "type": "Polygon",
@@ -30974,7 +31058,9 @@
         "nom_prov2": "",
         "cod_ccaa": 12,
         "cod_prov": 36,
-        "cod_prov_iso": "ES-PO"
+        "cod_prov_iso_3166/MA": "ES-PO",
+        "latitud": "42.435764706000001",
+        "longitud": " -8.46106294738"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31659,7 +31745,9 @@
         "nom_prov2": "",
         "cod_ccaa": "04",
         "cod_prov": "07",
-        "cod_prov_iso": "ES-PM"
+        "cod_prov_iso_3166/MA": "ES-PM",
+        "latitud": "39.575188986400001",
+        "longitud": " 2.91229172079"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32556,7 +32644,9 @@
         "nom_prov2": "",
         "cod_ccaa": "05",
         "cod_prov": 35,
-        "cod_prov_iso": "ES-GC"
+        "cod_prov_iso_3166/MA": "ES-GC",
+        "latitud": 28.3624928216,
+        "longitud": " -14.5509933924"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33289,7 +33379,9 @@
         "nom_prov2": "",
         "cod_ccaa": "05",
         "cod_prov": 38,
-        "cod_prov_iso": "ES-TF"
+        "cod_prov_iso_3166/MA": "ES-TF",
+        "latitud": "40.661261961500003",
+        "longitud": " -0.815532258446"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33918,7 +34010,9 @@
         "nom_prov2": "",
         "cod_ccaa": 17,
         "cod_prov": 26,
-        "cod_prov_iso": "ES-LO"
+        "cod_prov_iso_3166/MA": "ES-LO",
+        "latitud": "42.274870695799997",
+        "longitud": " -2.5170441194"
       },
       "geometry": {
         "type": "Polygon",
@@ -34517,7 +34611,9 @@
         "nom_prov2": "Araba",
         "cod_ccaa": 16,
         "cod_prov": "01",
-        "cod_prov_iso": "ES-VI"
+        "cod_prov_iso_3166/MA": "ES-VI",
+        "latitud": "42.835126435299998",
+        "longitud": " -2.72060346921"
       },
       "geometry": {
         "type": "Polygon",
@@ -35158,7 +35254,9 @@
         "nom_prov2": "Gipuzkoa",
         "cod_ccaa": 16,
         "cod_prov": 20,
-        "cod_prov_iso": "ES-SS"
+        "cod_prov_iso_3166/MA": "ES-SS",
+        "latitud": "43.143775911699997",
+        "longitud": " -2.19417845709"
       },
       "geometry": {
         "type": "Polygon",
@@ -35461,7 +35559,9 @@
         "nom_prov2": "Bizkaia",
         "cod_ccaa": 16,
         "cod_prov": 48,
-        "cod_prov_iso": "ES-BI"
+        "cod_prov_iso_3166/MA": "ES-BI",
+        "latitud": "43.237679705700003",
+        "longitud": " -2.85260007926"
       },
       "geometry": {
         "type": "Polygon",
@@ -35890,7 +35990,9 @@
         "nom_prov2": "",
         "cod_ccaa": "03",
         "cod_prov": 33,
-        "cod_prov_iso": "ES-O"
+        "cod_prov_iso_3166/MA": "ES-O",
+        "latitud": "43.292357860999999",
+        "longitud": " -5.99350932547"
       },
       "geometry": {
         "type": "Polygon",
@@ -36657,7 +36759,9 @@
         "nom_prov2": "",
         "cod_ccaa": 14,
         "cod_prov": 30,
-        "cod_prov_iso": "ES-MU"
+        "cod_prov_iso_3166/MA": "ES-MU",
+        "latitud": "38.002368165299998",
+        "longitud": "38.002368165299998"
       },
       "geometry": {
         "type": "Polygon",
